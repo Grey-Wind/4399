@@ -1,0 +1,19 @@
+{
+  "name": "4399",
+  "version": "1.0.0",
+  "description": "4399小游戏Electron应用版",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grey-Wind/4399.git"
+  },
+  "author": "Grey Wind",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Grey-Wind/4399/issues"
+  },
+  "homepage": "https://github.com/Grey-Wind/4399#readme"
+}
